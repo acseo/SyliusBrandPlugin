@@ -1,0 +1,3 @@
+acseo_brand_admin:
+    resource: "@ACSEOSyliusBrandPlugin/config/admin_routing.yaml"
+    prefix: /admin
